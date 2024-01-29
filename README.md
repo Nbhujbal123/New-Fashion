@@ -1,6 +1,2 @@
-"# NewFashin" 
-"# New-Fashion" 
-"# New-Fashion" 
-"# New-Fashion" 
-"# project1" 
-"# project1" 
+ "# project1" 
+ live demo ---- https://nbhujbal123.github.io/project1/
